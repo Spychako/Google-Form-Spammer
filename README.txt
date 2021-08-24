@@ -1,6 +1,6 @@
 A python script to spam the Google form with fake data. 
 
-usage: python formspam.py [-h] | [-l] link | [-n] number | [-f]
+usage: python formspam.py -l https://docs.google.com/forms/u/0/d/e/1FAIpQLScOO4qlU66S2y8q-lXddCGAYNbOyCseD1jpnjHbEBwO1620qw/viewform [-n] 10000 -f entry.475689653: kazufuyu
 
 arguments:
 -h, --help                      show this help message and exit
